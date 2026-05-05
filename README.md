@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> خذني بقوة في عتمة هذا الليل
+> شوقي إليك يتدفق مثل السيل
+> أريد أن أتذوق شفتيك في الظلام
+> حبي لك أقوى من كل الكلام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
