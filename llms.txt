@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Heta Men Alby Ellek |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 05, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/heta-men-alby-ellek/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> خذني بقوة في عتمة هذا الليل
+> شوقي إليك يتدفق مثل السيل
+> أريد أن أتذوق شفتيك في الظلام
+> حبي لك أقوى من كل الكلام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
