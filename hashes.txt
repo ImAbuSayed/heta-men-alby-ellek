@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heta Men Alby Ellek
+
+This log tracks the cryptographic history and versioning for the song **Heta Men Alby Ellek** (heta-men-alby-ellek).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:12:50.336828 | `v1` | `50c2e8cdaa20eb3bf606414e7249583bde03da4f0604b4be772c98d670819071` | `113302ad11171f3c65cbda5f914b4d46dc04617701382b461080f524058d0507` | `2026-05-08_heta-men-alby-ellek-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
